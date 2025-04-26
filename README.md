@@ -11,7 +11,7 @@
 **REDES SOCIAIS**
 -
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffa500)](https://www.linkedin.com/in/rutson-rubem/) [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=ffa500)](https://www.discord.com/in/benyamin_7/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=ffa500)](https://www.discord.com/in/benyamin_7/)
 
 **LINGUAGEM DE PROGRAMAÇÃO**
 -
